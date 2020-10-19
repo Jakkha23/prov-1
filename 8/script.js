@@ -6,5 +6,5 @@ function randomNumber() {
 console.log(randomNumber())
 
 function makeRandomArray() {
-    
+    //hann inte klart
 }
